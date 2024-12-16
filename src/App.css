@@ -1,0 +1,12 @@
+::selection {
+    background-color: #0b74dda8; /* Background color of the selected text */
+    color: white;             /* Text color of the selected text */
+    border:none;
+    outline: none;
+}
+
+:focus {
+    outline: none;
+    border:none
+}
+  
