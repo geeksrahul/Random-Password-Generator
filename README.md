@@ -21,4 +21,14 @@ A simple **Random Password Generator** built using **React** and **TailwindCSS**
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/rahulbaraiya/random-password-generator.git
+   git clone https://github.com/geeksrahul/random-password-generator.git
+2. Navigate to project directory
+   ```bash
+   cd random-password-generator
+3. Install dependency packages
+   ```bash
+   npm install
+4. Start project
+   ```bash
+   npm run dev
+  
